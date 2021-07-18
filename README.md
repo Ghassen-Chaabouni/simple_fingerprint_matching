@@ -4,6 +4,10 @@ This project extracts the fingerprint from the ID using template matching, proce
 
 Check the notebook ```fingerprint_matching.ipynb``` for the implementation.
 
+* This is an example of the fingerprint extraction from the ID:
+
+![image](https://user-images.githubusercontent.com/46755798/126072818-022c74d0-f2f1-4aee-b841-1718e84fe414.png)
+
 * This is an example of the user fingerprint before and after processing:
 
 ![image](https://user-images.githubusercontent.com/46755798/126051934-943a2753-c510-456e-8172-4d3f4e39acdc.png)
